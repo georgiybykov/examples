@@ -1,3 +1,3 @@
 # examples
 
-My studying exercises. Ruby's one love LOL
+My studying exercises. Ruby's one love <3
